@@ -1,7 +1,7 @@
 ﻿<?php
-$name = psxnp4_uni_data
-$password = h!l!ghtMEplz2
-$server_name = mysql.cs.nott.ac.uk
+$name = 
+$password = 
+$server_name = 
 
 
 function passwordcheck($database,$givenpword,$userID)
