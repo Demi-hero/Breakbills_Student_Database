@@ -8,3 +8,5 @@ This website is designed to run on an internal unix based server but if you want
 
 wil run on any browser that can handel php, html, css. 
 
+Names and places used in this database have been taken from a wide variaty of fictional novels such as Harry Dresden, Harry Potter, Alcatraz vs the Evil librarians and Night Angel. If some how they find this database please don't sue me. 
+
