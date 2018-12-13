@@ -62,7 +62,7 @@
     </div>
     
 	<div class="container">
-		 <p><a href="Breakbills_SignUp.php">New User?</a></p>
+		 <p><a href="Breakbills_SignUp.php">Create new account</a></p>
 	</div>
 </body>
 </html>
