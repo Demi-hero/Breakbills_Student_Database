@@ -32,6 +32,7 @@
 	// what happens when the form is posted back to the page
 	if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		// each if checks a manditory variable and sets its error
+		// this logic was found in an online tutorial at coding cage
 		if (empty($_POST['course'])) {
 			$courseErr = "Course is required";
 		} else {
